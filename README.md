@@ -8,6 +8,8 @@ excerpt: "Bs4"
 mathjax: "true"
 ---
 
+<!-- > Full analysis, predictions and models can be viewed here: [Jupyter Notebook](https://nbviewer.jupyter.org/github/t-shikuro/dog-breed-id/blob/master/notebooks/dog-vision.ipynb). -->
+
 ## Overview
 
 These python scripts request and `get` data from various websites. In these cases, weather and HackerNews. Note - check what is allowed to be scraped by appending "robots.txt" to the end of a website (i.e. https://www.airbnb.ca/robots.txt provides a full list for airbnb's policies). APIs are a great way to obtain website info where assuming user access (API TOKEN) website information can be sent in a convenient JSON form.
